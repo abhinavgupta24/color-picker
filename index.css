@@ -13,11 +13,12 @@ body{
     display: inline-block;
 }
 #bg-color{
-    display: inline-block;
+    display: block;
     background-color: gray;
     margin-left: 48%;
     margin-top: 20%;
     padding: 20px;
+    width: 80px;
 }
 #btn{
     margin-top: 2%;
