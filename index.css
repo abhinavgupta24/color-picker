@@ -1,0 +1,26 @@
+body{
+    margin:0px;
+}
+
+#nav-bar{
+    background-color: gray;
+    height: 90px;
+}
+#simp, #hex{
+    margin-top: 30px;
+    font-size: larger;
+    margin-left: 28%;
+    display: inline-block;
+}
+#bg-color{
+    display: inline-block;
+    background-color: gray;
+    margin-left: 48%;
+    margin-top: 20%;
+    padding: 20px;
+}
+#btn{
+    margin-top: 2%;
+    margin-left:52%;
+    display: flex;
+}
